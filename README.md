@@ -74,6 +74,6 @@ After using the SMOTE technique some models appeared to ave performed better: Gr
 
 [Feature Importance with unbalanced data](Picture/Feature Importance with unbalanced data.png)
 
-['Feature Importance after SMOTE'](Picture/Feature Importance after SMOTE.png)
+[Feature Importance after SMOTE](Picture/Feature Importance after SMOTE.png)
 
 

@@ -37,7 +37,7 @@ The first training dataset has 3000 rows, the second dataset has 2043 rows. Afte
 
 [Violinplot using churn and TotalCharges](Picture/Violinplot using churn and TotalCharges.png)
 
-[Distribution of Churn by Payment method](Picture\Distribution of Churn by Payment method.png)
+[Distribution of Churn by Payment method](Picture/Distribution of Churn by Payment method.png)
 
 The random state select for all models was 42 as it is perceived to be one of the best random states to use
 
@@ -72,6 +72,8 @@ After using the SMOTE technique some models appeared to ave performed better: Gr
 
 ## Feature importance and Visualisation
 
-[Feature Importance with unbalanced data](Picture\Feature Importance with unbalanced data.png)
+[Feature Importance with unbalanced data](Picture/Feature Importance with unbalanced data.png)
 
-[Picture\Feature Importance after SMOTE](Picture\Feature Importance after SMOTE.png)
+[Feature Importance after SMOTE](Picture/Feature Importance after SMOTE.png)
+
+
